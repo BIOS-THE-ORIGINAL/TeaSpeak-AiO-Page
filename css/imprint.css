@@ -1,0 +1,18 @@
+/*#####################################*/
+/*Autor : Nico Bary */
+/*Firma : KniteFM */
+/*Zugewisene URL : knitefm.de*/
+/*Copy CCLizenz*/
+/*Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz*/
+/*#####################################*/
+.impressumdata {
+
+border-style: double;
+background-color: dimgrey;
+color: white;
+text-align: justify;
+}
+
+.impressumdata a {
+color: white;
+}
